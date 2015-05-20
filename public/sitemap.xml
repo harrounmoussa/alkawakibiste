@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-05-20T16:55:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2015-05-20T16:55:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pages/michael-privot/</loc>
+    <lastmod>2015-05-20T06:08:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pages/felix-marquardt/</loc>
+    <lastmod>2015-05-20T06:08:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015-05-19-michael-privot-agent-de-pervertisation-de-lislam/</loc>
+    <lastmod>2015-05-19T01:29:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015-04-24-islam-des-spotlights/</loc>
+    <lastmod>2015-04-24T05:53:18+02:00</lastmod>
+  </url>
+  
+</urlset>

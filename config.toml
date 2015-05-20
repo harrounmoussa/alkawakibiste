@@ -1,0 +1,80 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "en-us"
+title = "alkawakibiste"
+
+[params]
+description = "Dénoncer l'imposture des pseudos réformateurs de l'Islam"
+
+[Taxonomies]
+tag = "tags"
+category = "categories"
+
+
+[[menu.main]]
+    name = "Réformer l'Islam"
+    identifier = "reformer"
+    url = "/categories/reformer"
+    weight="-10"
+
+
+### Menu Courants
+[[menu.main]]
+    name = "Courants en Islam"
+    identifier = "courants"
+    url = "/categories/courants"
+
+[[menu.main]]
+    name = "Kawakibisme"
+    parent = "courants"
+    url = "/post/reformise"
+
+[[menu.main]]
+    name = "Kawakibisme"
+    parent = "courants"
+    url = "/post/reformise"
+
+[[menu.main]]
+    name = "Soufisme"
+    parent = "courants"
+    url = "/post/reformise"
+
+[[menu.main]]
+    name = "Réformisme"
+    parent = "courants"
+    url = "/post/reformise"
+
+[[menu.main]]
+    name = "Coranisme"
+    parent = "courants"
+    url = "/post/reformise"
+
+[[menu.main]]
+    name = "Salafisme"
+    parent = "courants"
+    url = "/post/reformise"
+
+
+##### Menu people
+[[menu.main]]
+    name = "People"
+    identifier = "people"
+    url = "/categories/people"
+
+[[menu.main]]
+    name = "Michael Privot"
+    id="michael"
+    parent = "people"
+    url = "/pages/michael-privot/"
+
+[[menu.main]]
+    name = "Felix"
+    parent = "people"
+    url = "/pages/felix-marquardt/"
+
+##### About
+[[menu.main]]
+    id="about"
+    name = "À propos"
+    url = "/about"
+
+
